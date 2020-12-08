@@ -1,7 +1,7 @@
 {
   "name": "menu",
   "engines": {
-    "node": ">=0.12"
+    "node": ">=12"
   },
   "version": "1.0.0",
   "description": "",
